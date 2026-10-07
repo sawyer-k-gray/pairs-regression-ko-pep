@@ -58,6 +58,23 @@ pair-regression-ko-pep/
 ![Regression Plot](outputs/regression_plot.png)
 
 ### Residual Diagnostics
+![Residuals vs. Fitted](outputs/residuals_fitted.png)
+
 ![Q-Q Plot](outputs/qq_plot.png)
 
-![Residuals vs. Fitted](outputs/residuals_fitted.png)
+
+## Usage 
+
+1. Clone the repository
+```bash
+git clone https://github.com/sawyer-k-gray/pair-regression-ko-pep.git
+cd pair-regression-ko-pep
+```
+
+2. Run the Python and R scripts
+```bash
+python scripts/fetch_data.py
+Rscript scripts/analysis.R
+```
+
+

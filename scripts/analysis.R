@@ -1,7 +1,8 @@
 # Project: Coke vs. Pepsi Pair Regression Analysis
-#   Fits a simple linear regression model on daily log 
-#   returns, evaluated the models assumptions, and saves
-#   diagnostic plots.
+#   Fits a OLS regression model of Pepsi on Coke
+#   using daily log returns, calculates the regression 
+#   statistics, evaluates the models assumptions, and
+#   saves the diagnostic plots.
 
 
 # Load required packages
