@@ -32,13 +32,13 @@ pair-regression-ko-pep/
 
 ## Quantitative Results
 
-1. **Sample Size ($N$):** 1,253 observations (2021-2026)
+1. **Sample Size ($N$):** 1,254 observations (2021-2026)
 
-2. **Slope ($\beta_1$):** `0.7785367` - Statistically significant ($t = 33.787, p < 2\text{e}-16$)
+2. **Slope ($\beta_1$):** `0.7785367` - Statistically significant ($t = 33.787, p < 2\text{e}^{-16}$)
 
 3. **Intercept ($\beta_0$):** `-0.0001493` - Statistically insignificant ($t = -0.649, p = 0.517$)
 
-4. **R-squared ($R^2$):** `0.4769` - Indicates $47.69$% of the variance in Pepsi is explained by Coke.
+4. **R-squared ($R^2$):** `0.4769` - Shows the model is statistically significant (F-statistic = 1142, p-value $< 2.2\text{e}^{-16}$). Indicates $47.69$% of the variance in Pepsi is explained by Coke.
 
 
 ## Model Assumptions
