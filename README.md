@@ -16,6 +16,7 @@ pair-regression-ko-pep/
 │   ├── qq_plot.png
 │   ├── regression_plot.png
 │   └── residuals_fitted.png
+├── .gitignore
 ├── README.md
 └── scripts/
     ├── analysis.R
