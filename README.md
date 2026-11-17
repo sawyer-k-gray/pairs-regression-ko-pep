@@ -71,6 +71,11 @@ git clone https://github.com/sawyer-k-gray/pair-regression-ko-pep.git
 cd pair-regression-ko-pep
 ```
 
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
 2. Run the Python and R scripts
 ```bash
 python scripts/fetch_data.py
